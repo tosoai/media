@@ -40,7 +40,7 @@
     <tr><td style="padding:22px 6px 0;font-family:'Manrope','Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;line-height:1.6;color:#8a8a93;">
       You&#8217;re getting this because you created a Toso account.<br>
       Questions? Just reply to this email.<br><br>
-      <strong style="color:#0a0a11;">Toso</strong> &middot; Pay for the work, not the month &middot; Built in Nairobi<br>
+      <strong style="color:#0a0a11;">Toso</strong> &middot; Pay for the work, not the month<br>
       <a href="https://www.tosoai.org" style="color:#8a8a93;">tosoai.org</a>
     </td></tr>
   </table>

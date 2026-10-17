@@ -62,7 +62,7 @@ def layout(subject, preheader, body, footnote):
     <tr><td style="padding:22px 6px 0;font-family:{FONT};font-size:12px;line-height:1.6;color:#8a8a93;">
       {footnote}<br>
       Questions? Just reply to this email.<br><br>
-      <strong style="color:{NIGHT};">Toso</strong> &middot; Pay for the work, not the month &middot; Built in Nairobi<br>
+      <strong style="color:{NIGHT};">Toso</strong> &middot; Pay for the work, not the month<br>
       <a href="https://www.tosoai.org" style="color:#8a8a93;">tosoai.org</a>
     </td></tr>
   </table>
