@@ -1,0 +1,6 @@
+{
+  "_note": "Stills live in Higgsfield. Download with fetch-stills.sh, which writes them into public/ under these names. Job IDs work as image references for new shots of the same character.",
+  "ad1-447": {"s1.png": "f3274a91-08f5-4d69-84c0-f64b5b48ab83", "s2.png": "87fd6e8a-1e96-4d76-8ed5-e6b7b84f913a", "s3.png": "b7c4f190-4414-4093-a3a7-2e4885d33cfa", "s6.png": "fabae850-dcd5-497a-8fca-f5c5746aa504 (then laptop logo inpainted)", "s8.png": "358da084-1de9-4c5b-ad75-0851a212adda", "cast": "f5ef32f1-e083-4fdd-8560-af441fca5230"},
+  "ad2-cv": {"a2s1.png": "f515415d-99bd-4cff-baf2-9508be595905", "a2s2.png": "d2deb756-2d28-4398-8322-d06676521530", "a2s3.png": "ce08b0e4-fd7f-43d0-b7a4-1e4018af96e6", "a2s4.png": "916e6938-cdd0-4477-9208-edb683abc1e7", "a2s5.png": "f97451ac-15d4-4ad3-8cc8-8f9bf4fbdf7d", "cast": "d2deb756-2d28-4398-8322-d06676521530"},
+  "ad3-chama": {"a3s1.png": "c249f177-60b4-4825-933f-0fea912a654f", "a3s2.png": "b2079f7d-19be-4bfd-bf42-b736f6506dbf", "a3s3.png": "6a4972e4-bf15-46f5-aec8-4253107d3057", "a3s4.png": "054ade76-3a57-4cf5-aa44-cf60c7bf75e6", "a3s5.png": "b9ba19c7-eb0d-4c4f-9555-206b216eda47", "cast": "b2079f7d-19be-4bfd-bf42-b736f6506dbf"}
+}
