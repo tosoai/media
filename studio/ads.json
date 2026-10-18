@@ -34,5 +34,16 @@
  },
  "ad3b-chama-recut": {
   "_note": "Re-cut of ad3-chama, same stills, composition Ad3b in src/Ad4.tsx"
+ },
+ "ad5-group-deck": {
+  "a5s1.png": "556360b8-2fba-4167-88f8-1160ce0b2a1d",
+  "a5s2.png": "7d3b3bc9-9833-413f-885e-61b795298308 (cast; water-bottle label mark inpainted)",
+  "a5s3.png": "72db2064-2c3a-4557-a52a-9eedd6a2b8b1",
+  "a5s4.png": "8bd15fdd-baf1-4fdc-adf6-389ee05c4ec3 (water-bottle label mark inpainted)",
+  "a5s5.png": "a4972b76-1bdc-479d-a42a-7835a9707652",
+  "cast": "7d3b3bc9-9833-413f-885e-61b795298308"
+ },
+ "ad2b-cv-recut": {
+  "_note": "Re-cut of ad2-cv, same stills, composition Ad2b in src/Ad5.tsx"
  }
 }
