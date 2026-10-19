@@ -45,5 +45,17 @@
  },
  "ad2b-cv-recut": {
   "_note": "Re-cut of ad2-cv, same stills, composition Ad2b in src/Ad5.tsx"
+ },
+ "ad6-sacco-sheet": {
+  "a6s1.png": "81317238-8da2-4a48-a33d-908142802202",
+  "a6s2.png": "a5b15bdf-9080-4cbe-85db-d17788ec4cd8 (cast)",
+  "a6s3.png": "6fdf4ae1-379b-409b-b862-3fa6f1a9e4eb (clock 8:10)",
+  "a6s4.png": "fb35d8a5-f236-493c-9d46-abaca91567d6",
+  "a6s5.png": "d3a29d49-0fb5-4a71-8b51-f10ad2423d66",
+  "cast": "a5b15bdf-9080-4cbe-85db-d17788ec4cd8",
+  "_note": "Fabric-shop owner, short natural afro with side part, mustard cardigan. Composition Ad6 in src/Ad6.tsx"
+ },
+ "ad4b-report-recut": {
+  "_note": "Re-cut of ad4-report (text-first question hook, skips a4s1), composition Ad4b in src/Ad6.tsx"
  }
 }
