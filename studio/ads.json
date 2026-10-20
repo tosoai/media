@@ -57,5 +57,17 @@
  },
  "ad4b-report-recut": {
   "_note": "Re-cut of ad4-report (text-first question hook, skips a4s1), composition Ad4b in src/Ad6.tsx"
+ },
+ "ad5b-group-deck-recut": {
+  "_note": "Re-cut of ad5-group-deck (text-first hook 'Presenting at 8am. Who made the slides?', skips a5s3, ending 'The group chat went quiet.'), composition Ad5b in src/Ad7.tsx. a5s2/a5s4 re-cleaned on 2026-10-20 with nano_banana_pro: 2313902f-f1b0-4779-977b-e6242ed897bc (s2), d8e28aed-de93-4a5b-ad97-19a94e355cbd (s4); use these instead of the originals."
+ },
+ "ad7-cat-notes": {
+  "a7s1.png": "55d0b8f4-8948-49ba-92ef-32a75df8c4e3 (clock 10:40; from c1369cdb)",
+  "a7s2.png": "5dc06d2b-e868-4f85-8847-a2caaa2e4979 (clock 10:40; from c8c0ed72, a cleaned cast edit)",
+  "a7s3.png": "d175a45f-9e56-4571-ada9-b4acbc04f816 (clock detail 10:40)",
+  "a7s4.png": "841adde4-a779-47c1-bd8e-7f19bf4dcc03 (clock 11:15, printed book removed; from 44a5fea7)",
+  "a7s5.png": "4ce03efc-e9a7-4d1e-876b-41fdc0dbb8b3",
+  "cast": "4dcdbf0c-aea0-46b4-8054-87d38da91670",
+  "_note": "Nursing student, shoulder-length locs tied half-up, rust-orange cardigan over white tee, family living room. CAT at 8am, revision notes doc KES 5. Composition Ad7 in src/Ad7.tsx"
  }
 }

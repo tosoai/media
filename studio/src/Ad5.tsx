@@ -15,7 +15,7 @@ const Bar: React.FC<{w: string; c?: string; h?: number; mt?: number}> = ({w, c =
 const Thumb: React.FC<{dark?: boolean; children: React.ReactNode}> = ({dark, children}) => (
   <div style={{background: dark ? NIGHT : PAPER, borderRadius: 10, padding: 18, height: 150, border: '1px solid #e2e0d9'}}>{children}</div>
 );
-const DeckGrid: React.FC = () => (
+export const DeckGrid: React.FC = () => (
   <div style={{background: '#fff', height: 620, borderRadius: '0 0 24px 24px', padding: 32, fontFamily: 'Manrope'}}>
     <div style={{display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 18}}>
       <Thumb dark><div style={{fontFamily: 'Silkscreen', fontSize: 14, color: '#9d9ca6'}}>GROUP 4</div><div style={{color: PAPER, fontWeight: 800, fontSize: 30, lineHeight: 1.05, marginTop: 8, letterSpacing: '-0.02em'}}>Mobile money in rural Kenya</div></Thumb>
