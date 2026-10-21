@@ -61,7 +61,7 @@ const AskAllThree: React.FC = () => {
 
 const HOOKS = {
   a: {one: <>GPT, Claude<br />or Gemini?</>, two: 'Why choose?'},
-  b: {one: <>No card?<br />No problem.</>, two: <>Smart answers.<br />KES 5.</>},
+  b: {one: <>No card?<br />No problem.</>, two: <>Smart answers.<br />From KES 5.</>},
 };
 
 const Episode: React.FC<{hook: 'a' | 'b'}> = ({hook}) => (
@@ -72,7 +72,7 @@ const Episode: React.FC<{hook: 'a' | 'b'}> = ({hook}) => (
     <Sequence from={90} durationInFrames={45}><Still src="a9s3.png" dur={45} from={[1.06, 0, 0]} to={[1.16, 0, 2]} pos="50% 40%" /><Punch size={150} top={320}>Ask all three.</Punch></Sequence>
     <Sequence from={135} durationInFrames={120}><AskAllThree /><Punch size={150} top={250}>One app.</Punch></Sequence>
     <Sequence from={255} durationInFrames={60}><Still src="a9s4.png" dur={60} from={[1.05, 0, 0]} to={[1.1, 0, 1]} pos="50% 35%" /><Flash /><Punch size={170} top={300}>Got it.</Punch></Sequence>
-    <Sequence from={315} durationInFrames={60}><Pay amount="KES 5" /><Punch font="pix" size={260} top={300}>KES 5</Punch><Punch size={96} top={1240} delay={20}>Per answer.</Punch></Sequence>
+    <Sequence from={315} durationInFrames={60}><Pay amount="KES 5" /><Punch size={90} top={260}>From</Punch><Punch font="pix" size={260} top={360}>KES 5</Punch><Punch size={96} top={1240} delay={20}>Per answer.</Punch></Sequence>
     <Sequence from={375} durationInFrames={105}><Still src="a9s5.png" dur={105} from={[1.04, 0, 0]} to={[1.12, -1, 0]} pos="50% 40%" /><Punch size={150} top={300}>No card.</Punch><Punch size={110} top={470} delay={45}>No monthly bill.</Punch></Sequence>
     <Sequence from={480} durationInFrames={75}><EndCard tag="GPT · CLAUDE · GEMINI · FROM KES 5" /></Sequence>
     <Sfx />
