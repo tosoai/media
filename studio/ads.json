@@ -84,13 +84,13 @@
   "slug": "loop1-deck-due-at-5",
   "hook": "Deck due at 5?"
  },
- "ad9-ask-all-three": {
+ "ad9-pick-your-model": {
   "a9s1.png": "a5cbbb7f-6109-460e-96d3-ee5a0f815fac (over shoulder, blank phone; laptop logo inpainted, border cropped)",
   "a9s2.png": "7a437e4f-129c-43de-ae07-98bb6710765b (cast, cleaned from 568fb124: plain laptop, Kenyan background)",
   "a9s3.png": "8448c4ad-643d-4616-9c0d-2cfd281ed495 (hands, phone, notebook; border cropped)",
   "a9s4.png": "12daf7e4-b01f-4d9a-9a0f-9969ddb9bda1 (relieved; cleaned from ed1b935c)",
   "a9s5.png": "6300c5af-b8b5-4650-b28f-437b49eec66c (presenting; plain headscarf, from 9997178f)",
   "cast": "568fb124-05c8-4947-8e19-8d7b79f9db93",
-  "_note": "Models + M-Pesa angle, matches the landing hero. Two hooks share one body: Ad9a 'GPT, Claude or Gemini? / Why choose?', Ad9b 'No card? No problem. / Smart answers. KES 5.'. Model names in type only, no third-party logos. Composition src/Ad9.tsx. For ads first; not posted organically."
+  "_note": "Models + M-Pesa angle, matches the landing hero. Demo shows the REAL model picker (one model per message: pick Claude, ask, then switch to Gemini for the follow-up). Never show one question going to several models: that is Conclave mode, not built yet (vuka issue #179). Hooks: Ad9a 'GPT, Claude or Gemini? / Use any of them.', Ad9b 'No card? No problem. / Smart answers. From KES 5.'. Model names in type only, no logos. src/Ad9.tsx. For ads first."
  }
 }
