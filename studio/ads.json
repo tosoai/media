@@ -1,73 +1,87 @@
 {
- "_note": "Stills live in Higgsfield. Download with fetch-stills.sh, which writes them into public/ under these names. Job IDs work as image references for new shots of the same character.",
- "ad1-447": {
-  "s1.png": "f3274a91-08f5-4d69-84c0-f64b5b48ab83",
-  "s2.png": "87fd6e8a-1e96-4d76-8ed5-e6b7b84f913a",
-  "s3.png": "b7c4f190-4414-4093-a3a7-2e4885d33cfa",
-  "s6.png": "fabae850-dcd5-497a-8fca-f5c5746aa504 (then laptop logo inpainted)",
-  "s8.png": "358da084-1de9-4c5b-ad75-0851a212adda",
-  "cast": "f5ef32f1-e083-4fdd-8560-af441fca5230"
- },
- "ad2-cv": {
-  "a2s1.png": "f515415d-99bd-4cff-baf2-9508be595905",
-  "a2s2.png": "d2deb756-2d28-4398-8322-d06676521530",
-  "a2s3.png": "ce08b0e4-fd7f-43d0-b7a4-1e4018af96e6",
-  "a2s4.png": "916e6938-cdd0-4477-9208-edb683abc1e7",
-  "a2s5.png": "f97451ac-15d4-4ad3-8cc8-8f9bf4fbdf7d",
-  "cast": "d2deb756-2d28-4398-8322-d06676521530"
- },
- "ad3-chama": {
-  "a3s1.png": "c249f177-60b4-4825-933f-0fea912a654f",
-  "a3s2.png": "b2079f7d-19be-4bfd-bf42-b736f6506dbf",
-  "a3s3.png": "6a4972e4-bf15-46f5-aec8-4253107d3057",
-  "a3s4.png": "054ade76-3a57-4cf5-aa44-cf60c7bf75e6",
-  "a3s5.png": "f0e38f7e-9c6c-462a-a28c-7554bf30ad82 (2026-10-17: print shirt replaced with plain cardigan; original b9ba19c7)",
-  "cast": "b2079f7d-19be-4bfd-bf42-b736f6506dbf"
- },
- "ad4-report": {
-  "a4s1.png": "574c8e0b-7743-41fe-943d-57ee1d8cba60 (then laptop bezel text inpainted)",
-  "a4s2.png": "3ce64869-3933-4a46-8f07-b32738df35d0 (logo removed from cast 2e2874ea)",
-  "a4s3.png": "5261c956-23c0-476c-a853-6a889138b66f",
-  "a4s4.png": "c1c5cf7e-cbfe-475f-8ab7-cfb3d5e0acae (logo removed from f6ef5465)",
-  "a4s5.png": "f8a72145-e25f-4f8d-9ed2-947bc73318bb",
-  "cast": "2e2874ea-115f-42c3-a1a6-70a892e5a644"
- },
- "ad3b-chama-recut": {
-  "_note": "Re-cut of ad3-chama, same stills, composition Ad3b in src/Ad4.tsx"
- },
- "ad5-group-deck": {
-  "a5s1.png": "556360b8-2fba-4167-88f8-1160ce0b2a1d",
-  "a5s2.png": "7d3b3bc9-9833-413f-885e-61b795298308 (cast; water-bottle label mark inpainted)",
-  "a5s3.png": "72db2064-2c3a-4557-a52a-9eedd6a2b8b1",
-  "a5s4.png": "8bd15fdd-baf1-4fdc-adf6-389ee05c4ec3 (water-bottle label mark inpainted)",
-  "a5s5.png": "a4972b76-1bdc-479d-a42a-7835a9707652",
-  "cast": "7d3b3bc9-9833-413f-885e-61b795298308"
- },
- "ad2b-cv-recut": {
-  "_note": "Re-cut of ad2-cv, same stills, composition Ad2b in src/Ad5.tsx"
- },
- "ad6-sacco-sheet": {
-  "a6s1.png": "81317238-8da2-4a48-a33d-908142802202",
-  "a6s2.png": "a5b15bdf-9080-4cbe-85db-d17788ec4cd8 (cast)",
-  "a6s3.png": "6fdf4ae1-379b-409b-b862-3fa6f1a9e4eb (clock 8:10)",
-  "a6s4.png": "fb35d8a5-f236-493c-9d46-abaca91567d6",
-  "a6s5.png": "d3a29d49-0fb5-4a71-8b51-f10ad2423d66",
-  "cast": "a5b15bdf-9080-4cbe-85db-d17788ec4cd8",
-  "_note": "Fabric-shop owner, short natural afro with side part, mustard cardigan. Composition Ad6 in src/Ad6.tsx"
- },
- "ad4b-report-recut": {
-  "_note": "Re-cut of ad4-report (text-first question hook, skips a4s1), composition Ad4b in src/Ad6.tsx"
- },
- "ad5b-group-deck-recut": {
-  "_note": "Re-cut of ad5-group-deck (text-first hook 'Presenting at 8am. Who made the slides?', skips a5s3, ending 'The group chat went quiet.'), composition Ad5b in src/Ad7.tsx. a5s2/a5s4 re-cleaned on 2026-10-20 with nano_banana_pro: 2313902f-f1b0-4779-977b-e6242ed897bc (s2), d8e28aed-de93-4a5b-ad97-19a94e355cbd (s4); use these instead of the originals."
- },
- "ad7-cat-notes": {
-  "a7s1.png": "55d0b8f4-8948-49ba-92ef-32a75df8c4e3 (clock 10:40; from c1369cdb)",
-  "a7s2.png": "5dc06d2b-e868-4f85-8847-a2caaa2e4979 (clock 10:40; from c8c0ed72, a cleaned cast edit)",
-  "a7s3.png": "d175a45f-9e56-4571-ada9-b4acbc04f816 (clock detail 10:40)",
-  "a7s4.png": "841adde4-a779-47c1-bd8e-7f19bf4dcc03 (clock 11:15, printed book removed; from 44a5fea7)",
-  "a7s5.png": "4ce03efc-e9a7-4d1e-876b-41fdc0dbb8b3",
-  "cast": "4dcdbf0c-aea0-46b4-8054-87d38da91670",
-  "_note": "Nursing student, shoulder-length locs tied half-up, rust-orange cardigan over white tee, family living room. CAT at 8am, revision notes doc KES 5. Composition Ad7 in src/Ad7.tsx"
- }
+  "_note": "Stills live in Higgsfield. Download with fetch-stills.sh, which writes them into public/ under these names. Job IDs work as image references for new shots of the same character.",
+  "ad1-447": {
+    "s1.png": "f3274a91-08f5-4d69-84c0-f64b5b48ab83",
+    "s2.png": "87fd6e8a-1e96-4d76-8ed5-e6b7b84f913a",
+    "s3.png": "b7c4f190-4414-4093-a3a7-2e4885d33cfa",
+    "s6.png": "fabae850-dcd5-497a-8fca-f5c5746aa504 (then laptop logo inpainted)",
+    "s8.png": "358da084-1de9-4c5b-ad75-0851a212adda",
+    "cast": "f5ef32f1-e083-4fdd-8560-af441fca5230"
+  },
+  "ad2-cv": {
+    "a2s1.png": "f515415d-99bd-4cff-baf2-9508be595905",
+    "a2s2.png": "d2deb756-2d28-4398-8322-d06676521530",
+    "a2s3.png": "ce08b0e4-fd7f-43d0-b7a4-1e4018af96e6",
+    "a2s4.png": "916e6938-cdd0-4477-9208-edb683abc1e7",
+    "a2s5.png": "f97451ac-15d4-4ad3-8cc8-8f9bf4fbdf7d",
+    "cast": "d2deb756-2d28-4398-8322-d06676521530"
+  },
+  "ad3-chama": {
+    "a3s1.png": "c249f177-60b4-4825-933f-0fea912a654f",
+    "a3s2.png": "b2079f7d-19be-4bfd-bf42-b736f6506dbf",
+    "a3s3.png": "6a4972e4-bf15-46f5-aec8-4253107d3057",
+    "a3s4.png": "054ade76-3a57-4cf5-aa44-cf60c7bf75e6",
+    "a3s5.png": "f0e38f7e-9c6c-462a-a28c-7554bf30ad82 (2026-10-17: print shirt replaced with plain cardigan; original b9ba19c7)",
+    "cast": "b2079f7d-19be-4bfd-bf42-b736f6506dbf"
+  },
+  "ad4-report": {
+    "a4s1.png": "574c8e0b-7743-41fe-943d-57ee1d8cba60 (then laptop bezel text inpainted)",
+    "a4s2.png": "3ce64869-3933-4a46-8f07-b32738df35d0 (logo removed from cast 2e2874ea)",
+    "a4s3.png": "5261c956-23c0-476c-a853-6a889138b66f",
+    "a4s4.png": "c1c5cf7e-cbfe-475f-8ab7-cfb3d5e0acae (logo removed from f6ef5465)",
+    "a4s5.png": "f8a72145-e25f-4f8d-9ed2-947bc73318bb",
+    "cast": "2e2874ea-115f-42c3-a1a6-70a892e5a644"
+  },
+  "ad3b-chama-recut": {
+    "_note": "Re-cut of ad3-chama, same stills, composition Ad3b in src/Ad4.tsx"
+  },
+  "ad5-group-deck": {
+    "a5s1.png": "556360b8-2fba-4167-88f8-1160ce0b2a1d",
+    "a5s2.png": "7d3b3bc9-9833-413f-885e-61b795298308 (cast; water-bottle label mark inpainted)",
+    "a5s3.png": "72db2064-2c3a-4557-a52a-9eedd6a2b8b1",
+    "a5s4.png": "8bd15fdd-baf1-4fdc-adf6-389ee05c4ec3 (water-bottle label mark inpainted)",
+    "a5s5.png": "a4972b76-1bdc-479d-a42a-7835a9707652",
+    "cast": "7d3b3bc9-9833-413f-885e-61b795298308"
+  },
+  "ad2b-cv-recut": {
+    "_note": "Re-cut of ad2-cv, same stills, composition Ad2b in src/Ad5.tsx"
+  },
+  "ad6-sacco-sheet": {
+    "a6s1.png": "81317238-8da2-4a48-a33d-908142802202",
+    "a6s2.png": "a5b15bdf-9080-4cbe-85db-d17788ec4cd8 (cast)",
+    "a6s3.png": "6fdf4ae1-379b-409b-b862-3fa6f1a9e4eb (clock 8:10)",
+    "a6s4.png": "fb35d8a5-f236-493c-9d46-abaca91567d6",
+    "a6s5.png": "d3a29d49-0fb5-4a71-8b51-f10ad2423d66",
+    "cast": "a5b15bdf-9080-4cbe-85db-d17788ec4cd8",
+    "_note": "Fabric-shop owner, short natural afro with side part, mustard cardigan. Composition Ad6 in src/Ad6.tsx"
+  },
+  "ad4b-report-recut": {
+    "_note": "Re-cut of ad4-report (text-first question hook, skips a4s1), composition Ad4b in src/Ad6.tsx"
+  },
+  "ad5b-group-deck-recut": {
+    "_note": "Re-cut of ad5-group-deck (text-first hook 'Presenting at 8am. Who made the slides?', skips a5s3, ending 'The group chat went quiet.'), composition Ad5b in src/Ad7.tsx. a5s2/a5s4 re-cleaned on 2026-10-20 with nano_banana_pro: 2313902f-f1b0-4779-977b-e6242ed897bc (s2), d8e28aed-de93-4a5b-ad97-19a94e355cbd (s4); use these instead of the originals."
+  },
+  "ad7-cat-notes": {
+    "a7s1.png": "55d0b8f4-8948-49ba-92ef-32a75df8c4e3 (clock 10:40; from c1369cdb)",
+    "a7s2.png": "5dc06d2b-e868-4f85-8847-a2caaa2e4979 (clock 10:40; from c8c0ed72, a cleaned cast edit)",
+    "a7s3.png": "d175a45f-9e56-4571-ada9-b4acbc04f816 (clock detail 10:40)",
+    "a7s4.png": "841adde4-a779-47c1-bd8e-7f19bf4dcc03 (clock 11:15, printed book removed; from 44a5fea7)",
+    "a7s5.png": "4ce03efc-e9a7-4d1e-876b-41fdc0dbb8b3",
+    "cast": "4dcdbf0c-aea0-46b4-8054-87d38da91670",
+    "_note": "Nursing student, shoulder-length locs tied half-up, rust-orange cardigan over white tee, family living room. CAT at 8am, revision notes doc KES 5. Composition Ad7 in src/Ad7.tsx"
+  },
+  "ad8-catering-proposal": {
+    "a8s1.png": "270740bc-16ac-483a-b2c9-883e44c444e0 (over shoulder, blank phone)",
+    "a8s2.png": "feb5a789-4676-4527-8346-10f0fc362e14 (cast)",
+    "a8s3.png": "ec0d5f73-dec2-4643-b251-c53472fff4a2 (clock 11:20)",
+    "a8s4.png": "31b57416-4cc0-4256-ac5c-17adcaf65b94 (relieved)",
+    "a8s5.png": "eb5eeea9-05f7-4de9-925f-4f5f7121596f (payoff; guests edited twice from 98555192 via 469ba27a to plain solid-colour outfits)",
+    "cast": "feb5a789-4676-4527-8346-10f0fc362e14",
+    "_note": "Caterer, early 30s, cornrow braids, beard, white shirt + navy apron, bright home kitchen. Proposal due at 12 for a 150-guest wedding, catering proposal doc KES 5. Composition Ad8 in src/Ad8.tsx. Rejected cast bd93ba1c (text on apron)."
+  },
+  "loop1-deck-due-at-5": {
+    "_note": "Code-only loop, 8 s (240 frames, 4 bars), hook 'Deck due at 5?' on frame 0, phone typing, 5 code-drawn slides flip, 'KES 20. M-Pesa.', fades back to the hook. Composition Loop1 in src/Loop1.tsx. File queue/2026-10-22-loop1-deck-due-at-5.mp4",
+    "slug": "loop1-deck-due-at-5",
+    "hook": "Deck due at 5?"
+  }
 }
