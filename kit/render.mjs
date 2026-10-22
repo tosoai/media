@@ -20,16 +20,16 @@ const hsize = (h, W) => { const L = Math.max(...String(h).split('\n').map(l => l
 // ---- Branded hero visuals (variant B covers). Ink only: the violet stays on the logo.
 const HERO = {
   // CV page with red-pen circles and margin notes
-  cv: (s, W, H, ink) => { const top = H * 0.42, red = '#d2402f';
+  cv: (s, W, H, ink) => { const top = H > 800 ? H * 0.42 : H * 0.34, ph = Math.max(340, H - top - 200), red = '#d2402f';
     const ln = (w, y, c = '#c9c6bd') => `<div style="position:absolute;left:34px;top:${y}px;width:${w}%;height:9px;border-radius:5px;background:${c}"></div>`;
-    return `<div style="position:absolute;left:70px;top:${top}px;width:330px;height:${H - top - 200}px;background:#fff;border-radius:6px;box-shadow:0 18px 40px rgba(0,0,0,.12);transform:rotate(-3deg)">
+    return `<div style="position:absolute;left:70px;top:${top}px;width:330px;height:${ph}px;background:#fff;border-radius:6px;box-shadow:0 18px 40px rgba(0,0,0,.12);transform:rotate(-3deg)">
       <div style="position:absolute;left:34px;top:34px;font:800 26px Manrope;color:${C.night}">CURRICULUM VITAE</div>
       ${ln(60, 80)}${ln(45, 100)}<div style="position:absolute;left:34px;top:136px;font:800 15px Manrope;color:${C.night}">EXPERIENCE</div>${ln(80, 162)}${ln(72, 182)}${ln(76, 202)}${ln(50, 222)}
       <div style="position:absolute;left:34px;top:256px;font:800 15px Manrope;color:${C.night}">SKILLS</div>${ln(66, 282)}${ln(40, 302)}
       <div style="position:absolute;left:20px;top:150px;width:250px;height:90px;border:4px solid ${red};border-radius:50%;transform:rotate(-4deg)"></div>
       <div style="position:absolute;left:24px;top:270px;width:200px;height:50px;border:4px solid ${red};border-radius:50%"></div></div>
       <div style="position:absolute;left:390px;top:${top + 60}px;width:130px;font:italic 600 20px/1.2 Manrope;color:${red};transform:rotate(4deg)">${esc(s.note1 || 'numbers?')}</div>
-      <div style="position:absolute;left:380px;top:${top + 250}px;width:140px;font:italic 600 20px/1.2 Manrope;color:${red};transform:rotate(-3deg)">${esc(s.note2 || 'match the advert')}</div>`; },
+      <div style="position:absolute;left:380px;top:${top + Math.min(250, ph - 90)}px;width:140px;font:italic 600 20px/1.2 Manrope;color:${red};transform:rotate(-3deg)">${esc(s.note2 || 'match the advert')}</div>`; },
   // huge clock time on night
   clock: (s, W, H, ink) => `<div style="position:absolute;left:0;right:0;top:${H * 0.45}px;text-align:center;font:400 ${s.ksize || 190}px/1 Silkscreen;letter-spacing:-0.06em;color:${ink}">${esc(s.k || '8:00')}</div>
       <div style="position:absolute;left:0;right:0;top:${H * 0.45 + (s.ksize || 190) + 20}px;text-align:center;font:400 18px Silkscreen;letter-spacing:.08em;color:${C.g1}">${esc(s.kl || 'DUE')}</div>`,
