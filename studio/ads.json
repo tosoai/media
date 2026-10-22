@@ -92,5 +92,8 @@
   "a9s5.png": "6300c5af-b8b5-4650-b28f-437b49eec66c (presenting; plain headscarf, from 9997178f)",
   "cast": "568fb124-05c8-4947-8e19-8d7b79f9db93",
   "_note": "Models + M-Pesa angle, matches the landing hero. Demo shows the REAL model picker (one model per message: pick Claude, ask, then switch to Gemini for the follow-up). Never show one question going to several models: that is Conclave mode, not built yet (vuka issue #179). Hooks: Ad9a 'GPT, Claude or Gemini? / Use any of them.', Ad9b 'No card? No problem. / Smart answers. From KES 5.'. Model names in type only, no logos. src/Ad9.tsx. For ads first."
+ },
+ "poster1-price-slash": {
+  "_note": "Code-only animated price-slash poster, 10 s (300 frames). Monthly AI plan KES 2,700 struck -> Toso from 5 bob when you need it -> GPT/Claude/Gemini in our own type (no logos) -> Weka 50, pata 100 (counter 50->100) -> TOSO. Start free. src/Poster1.tsx. Locked with Sam 22 Oct. For ads; use TikTok's Sign up CTA, not a QR."
  }
 }
