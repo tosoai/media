@@ -41,7 +41,7 @@ const HERO = {
   bubbles: (s, W, H, ink, dark) => { const b = s.bubbles || ['Summarise this in 5 points', 'Here are the 5 key points…', 'Now make it shorter'];
     const top = H * 0.44; return b.map((t, i) => { const me = i % 2 === 0; return `<div style="position:absolute;${me ? 'right:40px' : 'left:40px'};top:${top + i * 100}px;max-width:360px;padding:18px 24px;border-radius:26px;${me ? `border-bottom-right-radius:6px;background:${ink};color:${dark ? C.night : C.paper}` : `border-bottom-left-radius:6px;background:${dark ? '#1c1c26' : '#e4e1d9'};color:${ink}`};font:600 21px/1.35 Manrope">${esc(t)}</div>`; }).join(''); },
   // index card / exam slip
-  slip: (s, W, H, ink) => { const top = H * 0.45; return `<div style="position:absolute;left:60px;right:60px;top:${top}px;height:280px;background:#fffdf6;border-radius:4px;box-shadow:0 14px 34px rgba(0,0,0,.12);transform:rotate(2deg);background-image:repeating-linear-gradient(180deg,transparent 0 43px,#b9d3e8 43px 45px);">
+  slip: (s, W, H, ink) => { const top = H > 800 ? H * 0.45 : H * 0.34; return `<div style="position:absolute;left:60px;right:60px;top:${top}px;height:280px;background:#fffdf6;border-radius:4px;box-shadow:0 14px 34px rgba(0,0,0,.12);transform:rotate(2deg);background-image:repeating-linear-gradient(180deg,transparent 0 43px,#b9d3e8 43px 45px);">
       <div style="position:absolute;left:0;right:0;top:0;height:56px;border-bottom:2px solid #e39b9b;padding:14px 22px;font:400 20px Silkscreen;color:${C.night}">${esc(s.k || 'CAT 2 · 8:00AM')}</div>
       <div style="position:absolute;left:22px;top:70px;font:600 22px/2.04 Manrope;color:#2b2b33">${esc(s.slip || 'Room 4B\nUnits 3 to 5\nBring: pen, ID')}</div></div>`; },
 };
