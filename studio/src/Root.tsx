@@ -12,6 +12,8 @@ import {Ad9a, Ad9b} from './Ad9';
 import {Poster1} from './Poster1';
 import {Loop2} from './Loop2';
 import {Ad10} from './Ad10';
+import {Ad11} from './Ad11';
+import {Loop3} from './Loop3';
 export const Root: React.FC = () => (<>
   <Composition id="Ad1" component={Ad1} durationInFrames={555} fps={30} width={1080} height={1920} />
   <Composition id="Ad2" component={Ad2} durationInFrames={555} fps={30} width={1080} height={1920} />
@@ -31,4 +33,6 @@ export const Root: React.FC = () => (<>
   <Composition id="Poster1" component={Poster1} durationInFrames={300} fps={30} width={1080} height={1920} />
   <Composition id="Loop2" component={Loop2} durationInFrames={240} fps={30} width={1080} height={1920} />
   <Composition id="Ad10" component={Ad10} durationInFrames={555} fps={30} width={1080} height={1920} />
+  <Composition id="Ad11" component={Ad11} durationInFrames={555} fps={30} width={1080} height={1920} />
+  <Composition id="Loop3" component={Loop3} durationInFrames={240} fps={30} width={1080} height={1920} />
 </>);

@@ -111,5 +111,21 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'CV due at midnight?' + 11:12 on frame 0, phone typing 'Tailor my CV to the Assistant Accountant advert', 3 code-drawn CV pages flip, 'KES 5. M-Pesa.', fades back to the hook. Composition Loop2 in src/Loop2.tsx. File queue/2026-10-23-loop2-cv-due-at-midnight.mp4",
     "slug": "loop2-cv-due-at-midnight",
     "hook": "CV due at midnight?"
+  },
+  "ad11-wedding-committee": {
+    "a11s1.png": "16c49ec3-3519-4541-a695-2ff1651fd420 (over shoulder, blank phone)",
+    "a11s2.png": "101bb7aa-6249-4529-bffb-6e094186d08c (worried = cast)",
+    "a11s3.png": "3331bef8-fa9f-4d39-b431-f5047f5e8281 (wall clock ~3:07)",
+    "a11s4.png": "e0d6a9ee-c5d3-45e6-b645-1357375a1e26 (relieved)",
+    "a11s5.png": "408d127b-fd36-4b66-9bbb-1d9ef61a41da (payoff, family committee meeting)",
+    "cast": "101bb7aa-6249-4529-bffb-6e094186d08c",
+    "_note": "Wedding committee secretary, high-top fade with sharp line-up, olive-green polo, gold watch, sunny living room, Saturday. Committee at 4, no slides: deck KES 20. Composition Ad11 in src/Ad11.tsx. File queue/2026-10-24-ad11-wedding-committee.mp4. Rejected casts f4b5a38b, d2160b10 (braided top, shirt logo).",
+    "slug": "ad11-wedding-committee",
+    "hook": "Committee at 4. No slides."
+  },
+  "loop3-chama-meets-tomorrow": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'Chama meets tomorrow?' + 9:40PM on frame 0, phone typing 'Chama sheet for 15 members: paid, owing, fines, total', 3 code-drawn sheet tabs flip, 'KES 5. M-Pesa.', fades back to the hook. Composition Loop3 in src/Loop3.tsx. File queue/2026-10-24-loop3-chama-meets-tomorrow.mp4",
+    "slug": "loop3-chama-meets-tomorrow",
+    "hook": "Chama meets tomorrow?"
   }
 }

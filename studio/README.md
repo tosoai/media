@@ -7,7 +7,7 @@ The Remotion project behind Toso's TikTok and Reels ads. Stills from Higgsfield,
 cd studio && npm install
 # put the stills in public/ (see ads.json for names and Higgsfield job IDs)
 npx remotion render src/index.ts Ad1 out/ad1.mp4 --codec=h264 --crf=20 \
-  --browser-executable=/opt/pw-browsers/chromium_headless_shell-1194/chrome-linux/headless_shell
+  --browser-executable=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell
 ```
 Check frames before posting: `npx remotion still src/index.ts Ad1 out/f.png --frame=30`.
 

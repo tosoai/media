@@ -48,13 +48,13 @@ const HERO = {
 // ---- Native covers (variant A): look like a phone screenshot, no brand.
 function nchat(s, W, H) {
   const msgs = s.msgs || [{ me: false, t: 'Hi' }];
-  return `<div style="position:absolute;inset:0;background:#efeae2;font-family:-apple-system,Manrope,sans-serif">
+  return `<div style="position:absolute;inset:0;background:${s.wall || '#f1f0f4'};font-family:-apple-system,Manrope,sans-serif">
     <div style="position:absolute;left:0;right:0;top:0;height:118px;background:#f7f7f7;border-bottom:1px solid #ddd;display:flex;align-items:flex-end;padding:0 24px 16px;gap:14px">
       <div style="font:600 28px Manrope;color:#3478f6">‹</div><div style="width:46px;height:46px;border-radius:23px;background:${s.avatar || '#9aa7b8'};display:flex;align-items:center;justify-content:center;font:800 20px Manrope;color:#fff">${esc((s.who || 'B')[0])}</div>
       <div><div style="font:700 20px Manrope;color:#111">${esc(s.who || 'Boss')}</div><div style="font:400 14px Manrope;color:#888">${esc(s.status || 'online')}</div></div></div>
     <div style="position:absolute;left:0;right:0;top:${s.top || 300}px;display:flex;flex-direction:column;gap:12px;padding:0 20px">
       <div style="align-self:center;font:600 13px Manrope;color:#777;background:#fff;border-radius:8px;padding:5px 12px">${esc(s.day || 'Today')}</div>
-      ${msgs.map(m => `<div style="align-self:${m.me ? 'flex-end' : 'flex-start'};max-width:390px;background:${m.me ? '#d9fdd3' : '#fff'};border-radius:16px;${m.me ? 'border-top-right-radius:4px' : 'border-top-left-radius:4px'};padding:12px 16px 8px;box-shadow:0 1px 1px rgba(0,0,0,.08)"><div style="font:400 ${m.size || 23}px/1.35 Manrope;color:#111">${esc(m.t)}</div><div style="text-align:right;font:400 12px Manrope;color:#888;margin-top:4px">${esc(m.time || '')}</div></div>`).join('')}
+      ${msgs.map(m => `<div style="align-self:${m.me ? 'flex-end' : 'flex-start'};max-width:390px;background:${m.me ? (s.mine || '#e2defc') : '#fff'};border-radius:16px;${m.me ? 'border-top-right-radius:4px' : 'border-top-left-radius:4px'};padding:12px 16px 8px;box-shadow:0 1px 1px rgba(0,0,0,.08)"><div style="font:400 ${m.size || 23}px/1.35 Manrope;color:#111">${esc(m.t)}</div><div style="text-align:right;font:400 12px Manrope;color:#888;margin-top:4px">${esc(m.time || '')}</div></div>`).join('')}
     </div>
     <div style="position:absolute;left:0;right:0;bottom:0;height:96px;background:#f7f7f7;border-top:1px solid #ddd;padding:16px 20px"><div style="height:44px;border-radius:22px;background:#fff;border:1px solid #ddd"></div></div></div>`;
 }
