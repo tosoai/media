@@ -127,5 +127,21 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'Chama meets tomorrow?' + 9:40PM on frame 0, phone typing 'Chama sheet for 15 members: paid, owing, fines, total', 3 code-drawn sheet tabs flip, 'KES 5. M-Pesa.', fades back to the hook. Composition Loop3 in src/Loop3.tsx. File queue/2026-10-24-loop3-chama-meets-tomorrow.mp4",
     "slug": "loop3-chama-meets-tomorrow",
     "hook": "Chama meets tomorrow?"
+  },
+  "ad12-field-report": {
+    "a12s1.png": "8b2235b7-343b-4c2a-a811-3c111732077c (over shoulder, blank phone)",
+    "a12s2.png": "8fc6d061-1b55-41fc-8dd1-a1e5606b2d97 (worried = cast)",
+    "a12s3.png": "dffe6cb5-013b-419b-a53e-d1d1c06d2b77 (wall clock ~4:40)",
+    "a12s4.png": "8e030d15-4123-4a78-a66e-58af64e53f1d (relieved)",
+    "a12s5.png": "3be5af5b-f5cc-4ccb-9989-e5d62fac899b (payoff, handing report to manager)",
+    "cast": "8fc6d061-1b55-41fc-8dd1-a1e5606b2d97",
+    "_note": "Programme officer, long knotless box braids in a high bun, dusty-blue linen shirt, bright apartment dining table, Sunday afternoon. Field report due 8am Monday, report doc KES 5. Composition Ad12 in src/Ad12.tsx. File queue/2026-10-25-ad12-field-report.mp4. Rejected casts d10bc958, 14bb5b79.",
+    "slug": "ad12-field-report",
+    "hook": "Report due 8am Monday."
+  },
+  "loop4-slides-for-monday": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'Slides for 8am Monday?' + SUN 9:10PM on frame 0, phone typing 'Monday team update deck: this week's sales, wins, next steps', 3 code-drawn slides flip, 'KES 20. M-Pesa.', fades back to the hook. Composition Loop4 in src/Loop4.tsx. File queue/2026-10-25-loop4-slides-for-monday.mp4",
+    "slug": "loop4-slides-for-monday",
+    "hook": "Slides for 8am Monday?"
   }
 }
