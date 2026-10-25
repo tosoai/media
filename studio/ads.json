@@ -143,5 +143,21 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'Slides for 8am Monday?' + SUN 9:10PM on frame 0, phone typing 'Monday team update deck: this week's sales, wins, next steps', 3 code-drawn slides flip, 'KES 20. M-Pesa.', fades back to the hook. Composition Loop4 in src/Loop4.tsx. File queue/2026-10-25-loop4-slides-for-monday.mp4",
     "slug": "loop4-slides-for-monday",
     "hook": "Slides for 8am Monday?"
+  },
+  "ad13-fees-by-2pm": {
+    "a13s1.png": "26a0d26f-e334-4f18-9faf-6c6ada909906 (over shoulder, blank phone)",
+    "a13s2.png": "16cd4065-ab49-493c-939a-b65e26a342ed (worried = cast, cleaned from 7e518a7b: screen border removed, jacaranda window)",
+    "a13s3.png": "1a884c73-ecfc-4fcf-9af3-852035e89673 (wall clock ~11:40)",
+    "a13s4.png": "b81e0e78-0af7-4715-aafa-20d724aca748 (relieved, printed sheet)",
+    "a13s5.png": "5b80ba45-6c25-44fb-ae73-c87f6b083467 (payoff, hands sheet to head teacher, parents waiting)",
+    "cast": "16cd4065-ab49-493c-939a-b65e26a342ed",
+    "_note": "School bursar, shoulder-length locs tied back, short beard, mustard sweater over white collar, bright school office with green cabinets and jacaranda window, Monday. Fee balances by class for the 2pm parents' meeting: spreadsheet KES 5. Hook fully visible on frame 0 (Punch delay -4). Composition Ad13 in src/Ad13.tsx. File queue/2026-10-26-ad13-fees-by-2pm.mp4. Rejected casts 54332af6 (laptop logo), ca7bdb29 (bare trees).",
+    "slug": "ad13-fees-by-2pm",
+    "hook": "Fees list by 2pm."
+  },
+  "loop5-minutes-due-by-9": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'Minutes due by 9?' + MON 8:22AM on frame 0, phone typing 'Minutes from my meeting notes: attendees, decisions, action points', 3 code-drawn minutes pages flip, 'KES 5. M-Pesa.', fades back to the hook. Composition Loop5 in src/Loop5.tsx. File queue/2026-10-26-loop5-minutes-due-by-9.mp4",
+    "slug": "loop5-minutes-due-by-9",
+    "hook": "Minutes due by 9?"
   }
 }

@@ -16,6 +16,8 @@ import {Ad11} from './Ad11';
 import {Loop3} from './Loop3';
 import {Loop4} from './Loop4';
 import {Ad12} from './Ad12';
+import {Loop5} from './Loop5';
+import {Ad13} from './Ad13';
 export const Root: React.FC = () => (<>
   <Composition id="Ad1" component={Ad1} durationInFrames={555} fps={30} width={1080} height={1920} />
   <Composition id="Ad2" component={Ad2} durationInFrames={555} fps={30} width={1080} height={1920} />
@@ -39,4 +41,6 @@ export const Root: React.FC = () => (<>
   <Composition id="Ad12" component={Ad12} durationInFrames={555} fps={30} width={1080} height={1920} />
   <Composition id="Loop4" component={Loop4} durationInFrames={240} fps={30} width={1080} height={1920} />
   <Composition id="Loop3" component={Loop3} durationInFrames={240} fps={30} width={1080} height={1920} />
+  <Composition id="Loop5" component={Loop5} durationInFrames={240} fps={30} width={1080} height={1920} />
+  <Composition id="Ad13" component={Ad13} durationInFrames={555} fps={30} width={1080} height={1920} />
 </>);
