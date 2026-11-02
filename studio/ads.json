@@ -159,5 +159,21 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'Minutes due by 9?' + MON 8:22AM on frame 0, phone typing 'Minutes from my meeting notes: attendees, decisions, action points', 3 code-drawn minutes pages flip, 'KES 5. M-Pesa.', fades back to the hook. Composition Loop5 in src/Loop5.tsx. File queue/2026-10-26-loop5-minutes-due-by-9.mp4",
     "slug": "loop5-minutes-due-by-9",
     "hook": "Minutes due by 9?"
+  },
+  "ad14-pitch-at-10": {
+    "a14s1.png": "f0d2f24e-072c-4436-9dde-7d01f2f8f7ab (over shoulder, blank phone; cropped to drop brochure)",
+    "a14s2.png": "bf87c66f-c6e9-486a-a384-61adb8c75781 (worried = cast aca6ef4c edited: brochure -> plain notebook)",
+    "a14s3.png": "6edada08-209c-4a06-b2b4-5c375b83ed1a (wall clock fixed to 8:40, from 539ee3b0)",
+    "a14s4.png": "1619a28e-4fd5-4f8e-bde6-ec39fcaf7efc (relieved; laptop logo + brochure removed, from 1e9b7ce4)",
+    "a14s5.png": "0322156d-b295-48ba-ae84-7104c8b00e7f (payoff, pitching to two clients)",
+    "cast": "aca6ef4c-8172-4ef9-a68f-5533115a2b46",
+    "_note": "Solar-equipment sales executive, bantu knots, terracotta blazer over cream knit, bright office with solar panels in the window, Tuesday. Client pitch moved to 10am, no deck: deck KES 20. Hook on frame 0 (Punch delay -4). Clock-shot type in night ink (white clock face). Composition Ad14 in src/Ad14.tsx. File queue/2026-11-03-ad14-pitch-at-10.mp4. Rejected cast 9be8e758 (OS dock on laptop screen).",
+    "slug": "ad14-pitch-at-10",
+    "hook": "Pitch at 10. No deck."
+  },
+  "loop6-stock-sheet-by-6": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'Stock sheet by 6?' + TUE 4:15PM on frame 0, phone typing 'Stock sheet from my receipts: item, in, out, left, what to reorder', 3 code-drawn sheet pages flip, 'KES 5. M-Pesa.', back to the hook. Composition Loop6 in src/Loop6.tsx. File queue/2026-11-03-loop6-stock-sheet-by-6.mp4",
+    "slug": "loop6-stock-sheet-by-6",
+    "hook": "Stock sheet by 6?"
   }
 }
