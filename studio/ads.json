@@ -191,5 +191,21 @@
   "_note": "Code-only loop, 8 s (240 frames), hook 'Presenting at 2?' + WED 11:40AM + 'Nobody made the slides.' on frame 0, phone typing 'Group presentation on rainwater harvesting for Unit 4: intro, case study, findings, recommendations', 3 code-drawn slides flip, 'KES 20. M-Pesa.', back to the hook. Composition Loop7 in src/Loop7.tsx. File queue/2026-11-04-loop7-presenting-at-2.mp4",
   "slug": "loop7-presenting-at-2",
   "hook": "Presenting at 2?"
+ },
+ "ad16-chama-at-6": {
+  "a16s1.png": "b9cbb7b6-f595-418e-94fb-3ebfc0644b6d (over shoulder, blank phone)",
+  "a16s2.png": "e8b057d1-859a-4923-a41e-a8447d3dc14c (worried = cast)",
+  "a16s3.png": "ce0d14da-0331-4ada-94ec-09abb318186a (wall clock 4:20)",
+  "a16s4.png": "7e950162-159e-4349-96c2-7f7ff2be5ca4 (relieved, printed sheet)",
+  "a16s5.png": "6d672dd5-f8de-4f83-8516-c905996b7922 (payoff, handing the sheet to chama members over tea)",
+  "cast": "e8b057d1-859a-4923-a41e-a8447d3dc14c",
+  "_note": "Chama treasurer, high-top fade with crisp line-up, clean-shaven, light grey crewneck over white tee, bright sitting room with plants and receipts, Saturday. Chama meets at 6, contributions sheet not ready: spreadsheet KES 5. Hook on frame 0 (Punch delay -4). Clock type moved above the clock (hands crossed the type). Composition Ad16 in src/Ad16.tsx. File queue/2026-11-05-ad16-chama-at-6.mp4. Rejected casts ec16b459, bc9638f6 (laptop logo, phone-frame border); rejected payoff a8fab942 (group did not read as a Kenyan chama).",
+  "slug": "ad16-chama-at-6",
+  "hook": "Chama at 6. No sheet."
+ },
+ "loop8-advert-midnight": {
+  "_note": "Code-only loop, 8 s (240 frames), hook 'Advert closes at midnight?' + THU 9:48PM + 'CV is from 2023.' on frame 0, phone typing 'One-page CV for this Customer Service Officer advert, from my old CV and my current job', 3 code-drawn CV pages flip, 'KES 5. M-Pesa.', back to the hook. Composition Loop8 in src/Loop8.tsx. File queue/2026-11-05-loop8-advert-midnight.mp4",
+  "slug": "loop8-advert-midnight",
+  "hook": "Advert closes at midnight?"
  }
 }
