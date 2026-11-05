@@ -207,5 +207,21 @@
   "_note": "Code-only loop, 8 s (240 frames), hook 'Advert closes at midnight?' + THU 9:48PM + 'CV is from 2023.' on frame 0, phone typing 'One-page CV for this Customer Service Officer advert, from my old CV and my current job', 3 code-drawn CV pages flip, 'KES 5. M-Pesa.', back to the hook. Composition Loop8 in src/Loop8.tsx. File queue/2026-11-05-loop8-advert-midnight.mp4",
   "slug": "loop8-advert-midnight",
   "hook": "Advert closes at midnight?"
+ },
+ "ad17-agm-at-10": {
+  "a17s1.png": "0ce5af64-e4fb-4557-96f4-a96655f409f0 (over shoulder, blank phone)",
+  "a17s2.png": "f1668e53-02d6-4eb4-9fea-5b966e6d60a8 (worried = cast)",
+  "a17s3.png": "aa7400e8-69af-4943-9e70-01c6b17bd6b2 (wall clock 8:00, type placed below the clock)",
+  "a17s4.png": "0dd331b9-fa62-4128-b081-fda4e1844db9 (relieved, printed handouts)",
+  "a17s5.png": "100cd22c-4c48-41c3-823b-d8e59ac3737f (payoff, presenting to dairy farmers in a community hall)",
+  "cast": "f1668e53-02d6-4eb4-9fea-5b966e6d60a8",
+  "_note": "Dairy co-op manager, late 30s, short waves, salt-and-pepper beard, maroon knit polo, bright co-op office with green hills outside, Friday. AGM at 10, half-year figures in a sheet but no slides: deck KES 20. Hook on frame 0 (Punch delay -4). Composition Ad17 in src/Ad17.tsx. File queue/2026-11-06-ad17-agm-at-10.mp4. Rejected casts 8c4790ec (cornrows), daeab96b (dyed wave pattern). Edits ran on nano_banana_2 (server routed nano_banana_pro).",
+  "slug": "ad17-agm-at-10",
+  "hook": "AGM at 10. No slides."
+ },
+ "loop9-report-monday": {
+  "_note": "Code-only loop, 8 s (240 frames), hook 'Report due Monday?' + FRI 4:52PM + 'Not started.' on frame 0, phone typing 'October report from these sales figures: summary, results by branch, issues, next steps', 3 code-drawn report pages flip, 'KES 5. M-Pesa.', back to the hook. Composition Loop9 in src/Loop9.tsx. File queue/2026-11-06-loop9-report-monday.mp4",
+  "slug": "loop9-report-monday",
+  "hook": "Report due Monday?"
  }
 }
