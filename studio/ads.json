@@ -238,5 +238,21 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'Fundraiser budget by 6?' + SAT 3:40PM + 'Nothing in a sheet.' on frame 0, phone typing a harambee budget request, 3 code-drawn sheet pages flip (costs, targets per group, summary), 'KES 5. M-Pesa.', back to the hook. Composition Loop10 in src/Loop10.tsx. File queue/2026-11-07-loop10-fundraiser-budget.mp4",
     "slug": "loop10-fundraiser-budget",
     "hook": "Fundraiser budget by 6?"
+  },
+  "ad19-defence-at-9": {
+    "a19s1.png": "494f6053-d476-4f61-a08c-2486541297d9 (over shoulder, blank phone)",
+    "a19s2.png": "9bdb0896-b2d9-4f72-bef9-19a086d0cd1f (worried = cast)",
+    "a19s3.png": "7ba36de8-5e7c-4ef1-a75d-03a89a9015a3 (wall clock ~5:40, report with tabs)",
+    "a19s4.png": "f9cf9e79-f45f-496f-a1bf-da28e80de8e0 (relieved)",
+    "a19s5.png": "d4ae23d8-4019-4b66-b2b4-daaea19396cc (payoff, presenting to a Kenyan panel, jacaranda outside)",
+    "cast": "9bdb0896-b2d9-4f72-bef9-19a086d0cd1f",
+    "_note": "Final-year IT student, box braids in a low bun, small studs, oversized lilac shirt over white tee, bright bedsitter, Sunday. Project defence moved to 9am tomorrow, no slides: deck KES 20. Hook on frame 0 (Punch delay -4). Rejected cast 13774a05 (non-Kenyan brick building/radiator); rejected payoff 5c759f9d (panel not Kenyan). Composition Ad19 in src/Ad19.tsx. File queue/2026-11-08-ad19-defence-at-9.mp4",
+    "slug": "ad19-defence-at-9",
+    "hook": "Defence at 9am. No slides."
+  },
+  "loop11-lesson-plans": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'Lesson plans due Monday?' + SUN 8:15PM + 'Week 3 not started.' on frame 0, phone typing a Grade 7 science week-3 lesson plan request, 3 code-drawn document pages flip, 'KES 5. M-Pesa.', back to the hook. Composition Loop11 in src/Loop11.tsx. File queue/2026-11-08-loop11-lesson-plans.mp4",
+    "slug": "loop11-lesson-plans",
+    "hook": "Lesson plans due Monday?"
   }
 }
