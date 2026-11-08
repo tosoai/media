@@ -254,5 +254,21 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'Lesson plans due Monday?' + SUN 8:15PM + 'Week 3 not started.' on frame 0, phone typing a Grade 7 science week-3 lesson plan request, 3 code-drawn document pages flip, 'KES 5. M-Pesa.', back to the hook. Composition Loop11 in src/Loop11.tsx. File queue/2026-11-08-loop11-lesson-plans.mp4",
     "slug": "loop11-lesson-plans",
     "hook": "Lesson plans due Monday?"
+  },
+  "ad20-fuel-claims-by-3": {
+    "a20s1.png": "493312e4-fc84-48fa-962c-9ecfd214feb4 (over shoulder, blank phone, Nairobi yard)",
+    "a20s2.png": "6a48820c-4733-4da3-a03c-99f7c4a1d239 (worried; truck badge inpainted)",
+    "a20s3.png": "08e0f16e-749e-43f6-b0a7-18745899e480 (wall clock 1:20, receipts)",
+    "a20s4.png": "5f6c881a-1036-4a7f-b726-f98659bd025a (relieved with tea; truck badge inpainted)",
+    "a20s5.png": "2e5d558b-8c71-4d30-98ee-aa275a10def4 (payoff, yard, drivers thumbs up)",
+    "cast": "b2ca476a-82c1-498f-82aa-ef69794f0aea",
+    "_note": "Transport-company admin, early 30s, medium rounded afro, gold hoops, teal blouse, bright yard office, Monday. Finance wants October fuel claims in one sheet by 3pm: spreadsheet KES 5. Hook on frame 0 (Punch delay -4). Rejected casts 4863c564, 9991c94f (US vans/palm tree). Composition Ad20 in src/Ad20.tsx. File queue/2026-11-09-ad20-fuel-claims-by-3.mp4",
+    "slug": "ad20-fuel-claims-by-3",
+    "hook": "Fuel claims by 3."
+  },
+  "loop12-slides-by-3": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'Slides by 3?' + MON 10:20AM + 'Boss just asked.' on frame 0, phone typing an 8-slide company update request, 3 code-drawn slides flip, 'KES 20. M-Pesa.', back to the hook. Composition Loop12 in src/Loop12.tsx. File queue/2026-11-09-loop12-slides-by-3.mp4",
+    "slug": "loop12-slides-by-3",
+    "hook": "Slides by 3?"
   }
 }
