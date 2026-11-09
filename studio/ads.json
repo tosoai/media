@@ -270,5 +270,10 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'Slides by 3?' + MON 10:20AM + 'Boss just asked.' on frame 0, phone typing an 8-slide company update request, 3 code-drawn slides flip, 'KES 20. M-Pesa.', back to the hook. Composition Loop12 in src/Loop12.tsx. File queue/2026-11-09-loop12-slides-by-3.mp4",
     "slug": "loop12-slides-by-3",
     "hook": "Slides by 3?"
+  },
+  "loop13-payroll-by-4": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'Payroll by 4?' + TUE 1:15PM + 'Foreman just asked.' on frame 0, phone typing a site-casuals payroll request, 3 code-drawn sheet pages flip, 'KES 5. M-Pesa.', back to the hook. Composition Loop13 in src/Loop13.tsx. File queue/2026-11-10-loop13-payroll-by-4.mp4",
+    "slug": "loop13-payroll-by-4",
+    "hook": "Payroll by 4?"
   }
 }
