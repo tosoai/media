@@ -1,0 +1,43 @@
+{
+"out": "queue/2026-11-11-motivation-letter-tt",
+"size": "story",
+"slides": [
+{
+"t": "ntext",
+"color": "#b8492b",
+"size": 42,
+"h": "\"Attach a one-page\nmotivation letter.\"\n\nWhat even\ngoes in it?"
+},
+{
+"t": "tip",
+"h": "Name the role in line one.",
+"b": "The exact title from the advert, and where you saw it. They're hiring for ten things at once."
+},
+{
+"t": "tip",
+"h": "One real reason it's them.",
+"b": "Something they actually do, not \"a reputable organisation\". One line is enough."
+},
+{
+"t": "tip",
+"h": "One thing you've done that proves it.",
+"b": "Attachment, a class project, the chama books. Say what you did and what changed."
+},
+{
+"t": "tip",
+"h": "What you'll learn. What you'll give.",
+"b": "Two lines. Interns who know why they came get picked first."
+},
+{
+"t": "tip",
+"h": "One page. Signed. PDF.",
+"b": "Name the file with your name and the role. Not letter-final-2.pdf."
+},
+{
+"t": "cta",
+"bg": "night",
+"h": "A motivation letter.\nKES 5.",
+"b": "Paste the advert into Toso and get the letter in Word or PDF.\nPay with M-Pesa. No card, no monthly bill."
+}
+]
+}
