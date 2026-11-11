@@ -1,0 +1,9 @@
+{"out":"queue/2026-11-12-invoice-tt","size":"story","slides":[
+{"t":"nchat","who":"Client","avatar":"#5a8bc9","day":"Today","top":330,"msgs":[{"me":true,"t":"Hi, just checking on the payment for October 🙏","time":"10:14"},{"me":false,"t":"Did you send an invoice?","time":"11:52"},{"me":true,"t":"I sent the amount on chat...","time":"11:53"},{"me":false,"t":"Accounts need a proper invoice 😊","time":"11:55"}]},
+{"t":"tip","h":"Number it. Date it.","b":"INV-014, 12 Nov. Accounts file invoices by number. No number, no queue."},
+{"t":"tip","h":"Their name, your name.","b":"The company exactly as it's registered, and yours with a phone number they can call."},
+{"t":"tip","h":"What you did, line by line.","b":"One line per job, with the quantity and the price. A total nobody can argue with."},
+{"t":"tip","h":"A due date, not \"30 days\".","b":"Write the actual date. \"Due 26 Nov\" gets paid. \"30 days\" gets forgotten."},
+{"t":"tip","h":"How to pay you.","b":"M-Pesa till or paybill and bank details, on the invoice itself. Don't make them ask."},
+{"t":"cta","bg":"night","h":"An invoice\nin Word or Excel. KES 5.","b":"Tell Toso the client, the work and the amount. Get the finished invoice.\nPay with M-Pesa. No card, no monthly bill."}
+]}

@@ -280,5 +280,10 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'Training at 9?' + WED 7:40AM + 'No slides yet.' on frame 0, phone typing a 10-slide new-staff induction request, 3 code-drawn slides flip (welcome, hours and leave, pay dates), 'KES 20. M-Pesa.', back to the hook. Composition Loop14 in src/Loop14.tsx. File queue/2026-11-11-loop14-training-at-9.mp4",
     "slug": "loop14-training-at-9",
     "hook": "Training at 9?"
+  },
+  "loop15-chama-at-7": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'Chama at 7?' + THU 5:20PM + 'And you're treasurer.' on frame 0, phone typing a chama sheet request, 3 code-drawn sheet tabs flip (summary, contributions, loans), 'KES 5. M-Pesa.', back to the hook. Composition Loop15 in src/Loop15.tsx. File queue/2026-11-12-loop15-chama-at-7.mp4",
+    "slug": "loop15-chama-at-7",
+    "hook": "Chama at 7?"
   }
 }
