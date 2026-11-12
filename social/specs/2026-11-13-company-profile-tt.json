@@ -1,0 +1,9 @@
+{"out":"queue/2026-11-13-company-profile-tt","size":"story","slides":[
+{"t":"nchat","who":"Hotel manager","avatar":"#a4683f","day":"Today","top":330,"msgs":[{"me":false,"t":"We liked your quote 👍","time":"15:40"},{"me":false,"t":"Before we onboard you, send us your company profile.","time":"15:41"},{"me":true,"t":"Our... company profile?","time":"15:44"},{"me":false,"t":"PDF is fine. By Monday please 🙏","time":"15:45"}]},
+{"t":"tip","h":"Who you are, in one paragraph.","b":"Name, what you do, since when, where you work. Skip the mission statement."},
+{"t":"tip","h":"Services as a list.","b":"One line each on what the client actually gets."},
+{"t":"tip","h":"Three past jobs.","b":"Client, what you did, when. Photos if you have them, with their permission."},
+{"t":"tip","h":"The papers they'll ask for.","b":"Registration, KRA PIN, any licences. List them so procurement can tick the boxes."},
+{"t":"tip","h":"Contacts and how to pay you.","b":"One phone, one email, your till or bank details. On the last page."},
+{"t":"cta","bg":"night","h":"A company profile\nin Word or PDF. KES 5.","b":"Tell Toso what your business does. Get the finished profile.\nPay with M-Pesa. No card, no monthly bill."}
+]}

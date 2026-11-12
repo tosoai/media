@@ -1,0 +1,9 @@
+{"out":"queue/2026-11-13-three-answers-tt","size":"story","slides":[
+{"t":"ntext","color":"#2b4c7e","size":46,"h":"Asked GPT.\nThen Claude.\nThen Gemini.\n\nThree different\nanswers."},
+{"t":"tip","h":"Ask all three the same thing.","b":"Copy the question word for word. Where the answers differ is where you need to look."},
+{"t":"tip","h":"Where they agree, good sign.","b":"Three answers saying the same thing is a start. Still check any number that matters."},
+{"t":"tip","h":"Where they disagree, ask why.","b":"Paste one answer into another and ask: what's wrong with this?"},
+{"t":"tip","h":"Keep the best lines.","b":"The clearest opening from one. The best example from another."},
+{"t":"tip","h":"One clean final draft.","b":"Tell one of them what you liked from the others and ask for a single version."},
+{"t":"cta","bg":"night","h":"GPT, Claude and Gemini.\nOne app. KES 5.","b":"Answers from KES 5 with M-Pesa. Pick the model after a top-up from KES 20.\nNo card, no monthly bill."}
+]}

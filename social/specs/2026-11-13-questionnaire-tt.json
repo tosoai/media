@@ -1,0 +1,9 @@
+{"out":"queue/2026-11-13-questionnaire-tt","size":"story","slides":[
+{"t":"nchat","who":"Supervisor","avatar":"#6b8f5e","day":"Today","top":330,"msgs":[{"me":false,"t":"Send me your questionnaire before you go to the field.","time":"09:02"},{"me":true,"t":"Okay sir. By when?","time":"09:05"},{"me":false,"t":"Monday. And every question should match your objectives.","time":"09:06"},{"me":true,"t":"Noted 😅","time":"09:06"}]},
+{"t":"tip","h":"Start from your objectives.","b":"Every question answers one objective. If it doesn't answer any, cut it."},
+{"t":"tip","h":"Tick boxes first.","b":"Closed questions and scales up front. Two or three open ones at the very end."},
+{"t":"tip","h":"One thing per question.","b":"\"Is the service fast and friendly?\" is two questions. Split it."},
+{"t":"tip","h":"Don't lead them.","b":"Not \"How much did the training help you?\" Ask \"Did the training change how you work?\""},
+{"t":"tip","h":"Test it on five people.","b":"Classmates count. Fix every question they had to ask you about."},
+{"t":"cta","bg":"night","h":"A questionnaire\nin Word. KES 5.","b":"Tell Toso your topic and objectives. Get the finished questionnaire in Word or PDF.\nPay with M-Pesa. No card, no monthly bill."}
+]}

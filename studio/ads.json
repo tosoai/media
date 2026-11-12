@@ -285,5 +285,10 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'Chama at 7?' + THU 5:20PM + 'And you're treasurer.' on frame 0, phone typing a chama sheet request, 3 code-drawn sheet tabs flip (summary, contributions, loans), 'KES 5. M-Pesa.', back to the hook. Composition Loop15 in src/Loop15.tsx. File queue/2026-11-12-loop15-chama-at-7.mp4",
     "slug": "loop15-chama-at-7",
     "hook": "Chama at 7?"
+  },
+  "loop16-offer-letter": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'Offer letter by 4?' + FRI 1:10PM + 'She starts Monday.' on frame 0, phone typing an offer-letter request for a sales assistant, 3 code-drawn document pages flip (letter, terms, acceptance), 'KES 5. M-Pesa.', back to the hook. Composition Loop16 in src/Loop16.tsx. File queue/2026-11-13-loop16-offer-letter.mp4",
+    "slug": "loop16-offer-letter",
+    "hook": "Offer letter by 4?"
   }
 }
