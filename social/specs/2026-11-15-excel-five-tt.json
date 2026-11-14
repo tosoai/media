@@ -1,0 +1,9 @@
+{"out":"queue/2026-11-15-excel-five-tt","size":"story","slides":[
+{"t":"ntext","color":"#1f6f5c","size":46,"h":"The 5 Excel things\nthat save every\nMonday morning."},
+{"t":"tip","h":"Freeze the top row.","b":"View, Freeze Panes. Headers stay put while you scroll 400 rows."},
+{"t":"tip","h":"Turn it into a table.","b":"Ctrl + T. Filters, stripes and totals that grow when you add a row."},
+{"t":"tip","h":"SUMIF, not a calculator.","b":"=SUMIF(B:B,\"Fuel\",C:C) adds every fuel line for you."},
+{"t":"tip","h":"Colour what's late.","b":"Conditional formatting: any date before today turns red."},
+{"t":"tip","h":"XLOOKUP to join two lists.","b":"Pull the phone number from one sheet into another by name."},
+{"t":"cta","bg":"night","h":"Or skip the formulas.\nKES 5.","b":"Tell Toso what the sheet is for. Get it finished in Excel, formulas and all.\nPay with M-Pesa. No card, no monthly bill."}
+]}
