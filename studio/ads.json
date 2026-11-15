@@ -295,5 +295,10 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'Slides by 9am?' + SUN 7:30PM + 'Monday review. Nothing yet.' on frame 0, phone typing a 6-slide weekly sales review request, 3 code-drawn slides flip (numbers, what worked, this week), 'KES 20. M-Pesa.', back to the hook. Composition Loop17 in src/Loop17.tsx. File queue/2026-11-15-loop17-slides-by-9am.mp4",
     "slug": "loop17-slides-by-9am",
     "hook": "Slides by 9am?"
+  },
+  "loop18-cv-by-midnight": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'CV by midnight?' + MON 9:40PM + 'The advert closes at 11:59.' on frame 0, phone typing a one-page graduate-trainee CV request, 3 code-drawn CV sections flip (profile, experience, skills), 'KES 5. M-Pesa.', back to the hook. Composition Loop18 in src/Loop18.tsx. File queue/2026-11-16-loop18-cv-by-midnight.mp4. IG only (TT loop skipped by H17 gate).",
+    "slug": "loop18-cv-by-midnight",
+    "hook": "CV by midnight?"
   }
 }
