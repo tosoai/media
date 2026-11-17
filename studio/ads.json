@@ -305,5 +305,10 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'Exams Monday?' + TUE 8:10PM + 'Six units. Seven days.' on frame 0, phone typing a 6-unit revision timetable request, 3 code-drawn sheet tabs flip (week, units, exams), 'KES 5. M-Pesa.', back to the hook. Composition Loop19 in src/Loop19.tsx. File queue/2026-11-17-loop19-exams-monday.mp4. IG only (nightly review: no TT loop).",
     "slug": "loop19-exams-monday",
     "hook": "Exams Monday?"
+  },
+  "loop20-due-friday": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'Due Friday?' + WED 9:05PM + '2,500 words. Zero written.' on frame 0, phone typing an assignment-outline request, 3 code-drawn document pages flip (outline, section, references), 'KES 5. M-Pesa.', back to the hook. Composition Loop20 in src/Loop20.tsx. File queue/2026-11-18-loop20-due-friday.mp4. IG only (nightly review: no TT loop), carries the top-up offer in caption.",
+    "slug": "loop20-due-friday",
+    "hook": "Due Friday?"
   }
 }
