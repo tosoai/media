@@ -1,0 +1,9 @@
+{"out":"queue/2026-11-19-data-analysis-tt","size":"story","slides":[
+{"t":"nchat","who":"Group Leader","avatar":"#6b4f8a","day":"Today","top":330,"msgs":[{"me":false,"t":"All 120 questionnaires are in 🎉","time":"20:02"},{"me":false,"t":"Who's doing the data analysis? Lecturer wants tables and charts Monday.","time":"20:03"},{"me":true,"t":"Me?? I've never done that 😭","time":"20:31"},{"me":false,"t":"You have Excel. You're it.","time":"20:32"}]},
+{"t":"tip","h":"One row per person.","b":"Each questionnaire is a row, each question a column. Code the answers as numbers."},
+{"t":"tip","h":"Clean before you count.","b":"Filter every column for blanks and typos. Fix them once, not in every chart."},
+{"t":"tip","h":"PivotTable for every table.","b":"Insert, PivotTable. Drag the question to Rows, count to Values. Frequency table done."},
+{"t":"tip","h":"Percentages, not just counts.","b":"Show Values As, % of Column Total. 120 people reads better as 100%."},
+{"t":"tip","h":"One chart per objective.","b":"Bars to compare groups. Title says the finding, not the question."},
+{"t":"cta","bg":"night","h":"Tables and charts in Excel.\nKES 5.","b":"Tell Toso your questions and paste the answers. Get the finished analysis sheet in Excel.\nPay with M-Pesa. No card, no monthly bill."}
+]}

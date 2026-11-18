@@ -1,0 +1,9 @@
+{"out":"queue/2026-11-19-excel-charts-tt","size":"story","slides":[
+{"t":"ntext","color":"#1f6f5c","size":44,"h":"The 5 Excel chart\nfixes that make\nany report look\nprofessional."},
+{"t":"tip","h":"The title is the finding.","b":"\"Sales up 18% in October\", not \"Sales by month\". People read the title and nothing else."},
+{"t":"tip","h":"Bars compare, lines show time.","b":"Pie charts only for two or three slices. Anything more, use bars."},
+{"t":"tip","h":"Sort the bars.","b":"Sort the data largest to smallest before you insert the chart. The order does the explaining."},
+{"t":"tip","h":"Delete the clutter.","b":"Click the gridlines and the legend, press Delete. Label the bars directly instead."},
+{"t":"tip","h":"One colour, one highlight.","b":"Grey for everything, one strong colour for the bar you want them to see."},
+{"t":"cta","bg":"night","h":"Or skip the fiddling.\nFrom KES 5.","b":"Tell Toso what the report is about. Get the finished Excel sheet, charts done.\nPay with M-Pesa. No card, no monthly bill."}
+]}

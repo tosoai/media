@@ -40,6 +40,7 @@ import {Loop17} from './Loop17';
 import {Loop18} from './Loop18';
 import {Loop19} from './Loop19';
 import {Loop20} from './Loop20';
+import {Loop21} from './Loop21';
 export const Root: React.FC = () => (<>
   <Composition id="Ad1" component={Ad1} durationInFrames={555} fps={30} width={1080} height={1920} />
   <Composition id="Ad2" component={Ad2} durationInFrames={555} fps={30} width={1080} height={1920} />
@@ -84,6 +85,7 @@ export const Root: React.FC = () => (<>
   <Composition id="Loop18" component={Loop18} durationInFrames={240} fps={30} width={1080} height={1920} />
   <Composition id="Loop19" component={Loop19} durationInFrames={240} fps={30} width={1080} height={1920} />
   <Composition id="Loop20" component={Loop20} durationInFrames={240} fps={30} width={1080} height={1920} />
+  <Composition id="Loop21" component={Loop21} durationInFrames={240} fps={30} width={1080} height={1920} />
   <Composition id="Ad18" component={Ad18} durationInFrames={555} fps={30} width={1080} height={1920} />
   <Composition id="Ad16" component={Ad16} durationInFrames={555} fps={30} width={1080} height={1920} />
   <Composition id="Ad13" component={Ad13} durationInFrames={555} fps={30} width={1080} height={1920} />

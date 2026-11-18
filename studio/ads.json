@@ -310,5 +310,10 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'Due Friday?' + WED 9:05PM + '2,500 words. Zero written.' on frame 0, phone typing an assignment-outline request, 3 code-drawn document pages flip (outline, section, references), 'KES 5. M-Pesa.', back to the hook. Composition Loop20 in src/Loop20.tsx. File queue/2026-11-18-loop20-due-friday.mp4. IG only (nightly review: no TT loop), carries the top-up offer in caption.",
     "slug": "loop20-due-friday",
     "hook": "Due Friday?"
+  },
+  "loop21-slides-by-10": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'Slides by 10?' + THU 7:40AM + 'Seminar today. Nothing yet.' on frame 0, phone typing a 10-slide seminar deck request, 3 code-drawn slides flip (title, chart, findings), 'KES 20. M-Pesa.', back to the hook. Composition Loop21 in src/Loop21.tsx. File queue/2026-11-19-loop21-slides-by-10.mp4. IG only (nightly review: no TT loop), carries the top-up offer in caption.",
+    "slug": "loop21-slides-by-10",
+    "hook": "Slides by 10?"
   }
 }
