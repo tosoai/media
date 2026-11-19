@@ -315,5 +315,10 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'Slides by 10?' + THU 7:40AM + 'Seminar today. Nothing yet.' on frame 0, phone typing a 10-slide seminar deck request, 3 code-drawn slides flip (title, chart, findings), 'KES 20. M-Pesa.', back to the hook. Composition Loop21 in src/Loop21.tsx. File queue/2026-11-19-loop21-slides-by-10.mp4. IG only (nightly review: no TT loop), carries the top-up offer in caption.",
     "slug": "loop21-slides-by-10",
     "hook": "Slides by 10?"
+  },
+  "loop22-lab-data": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'Lab data due 8am?' + FRI 11:20PM + 'Readings in a notebook. No table.' on frame 0, phone typing an Excel titration results request, 3 code-drawn sheet tabs flip (readings, results, chart), 'KES 5. M-Pesa.', back to the hook. Composition Loop22 in src/Loop22.tsx. File queue/2026-11-20-loop22-lab-data.mp4. IG only (nightly review: no TT loop), carries the top-up offer in caption.",
+    "slug": "loop22-lab-data",
+    "hook": "Lab data due 8am?"
   }
 }
