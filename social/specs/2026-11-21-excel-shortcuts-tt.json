@@ -1,0 +1,9 @@
+{"out":"queue/2026-11-21-excel-shortcuts-tt","size":"story","slides":[
+{"t":"ntext","color":"#1f6f5c","size":46,"h":"The 5 Excel shortcuts\nthat give you back\nan hour a week."},
+{"t":"tip","h":"Ctrl + ; for today's date.","b":"Types the date as a fixed value. Ctrl + Shift + ; adds the time."},
+{"t":"tip","h":"Alt + = to total a column.","b":"AutoSum picks up the numbers above. Press Enter, done."},
+{"t":"tip","h":"Ctrl + E for Flash Fill.","b":"Type the first name from one full name, press Ctrl + E. Excel does the other 300 rows."},
+{"t":"tip","h":"Ctrl + Shift + L for filters.","b":"Filters on, filters off, on any list. No menus."},
+{"t":"tip","h":"Double-click the fill handle.","b":"The small square on the cell corner. Copies the formula down to the last row."},
+{"t":"cta","bg":"night","h":"Or skip the shortcuts.\nKES 5.","b":"Tell Toso what the sheet is for. Get it finished in Excel, formulas and all.\nPay with M-Pesa. No card, no monthly bill."}
+]}
