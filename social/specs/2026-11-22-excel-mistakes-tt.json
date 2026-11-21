@@ -1,0 +1,9 @@
+{"out":"queue/2026-11-22-excel-mistakes-tt","size":"story","slides":[
+{"t":"ntext","color":"#7a2f3b","size":46,"h":"5 Excel mistakes\nthat quietly break\nyour totals."},
+{"t":"tip","h":"Numbers stored as text.","b":"Green triangle in the corner? SUM skips that cell. Select the column and Convert to Number."},
+{"t":"tip","h":"Typing numbers into formulas.","b":"=B2*16% breaks when the rate changes. Put 16% in its own cell and point to it."},
+{"t":"tip","h":"Hidden rows still count.","b":"SUM adds the rows you filtered out. =SUBTOTAL(109, B2:B500) adds only what you can see."},
+{"t":"tip","h":"Spaces you can't see.","b":"\"Nairobi \" isn't \"Nairobi\", so lookups miss. =TRIM(A2) cleans them out."},
+{"t":"tip","h":"Merged cells.","b":"They break sorting and filters. Use Center Across Selection instead: same look, nothing breaks."},
+{"t":"cta","bg":"night","h":"Or skip the mistakes.\nKES 5.","b":"Tell Toso what the sheet is for. Get it finished in Excel, formulas checked.\nPay with M-Pesa. No card, no monthly bill."}
+]}
