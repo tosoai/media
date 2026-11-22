@@ -330,5 +330,10 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'Report due 9am?' + SUN 9:10PM + 'Notes everywhere. Zero pages.' on frame 0, phone typing an October report request, 3 code-drawn Word pages flip (summary, Oct vs Sep table, next month), 'KES 5. M-Pesa.', back to the hook. Composition Loop24 in src/Loop24.tsx. File queue/2026-11-22-loop24-report-9am.mp4. IG only (nightly review: no TT loop), carries the top-up offer in caption.",
     "slug": "loop24-report-9am",
     "hook": "Report due 9am?"
+  },
+  "loop25-sheet-by-5": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'Sheet due by 5?' + MON 3:40PM + 'Raw numbers. No totals.' on frame 0, phone typing a November sales by branch request, 3 code-drawn sheet tabs flip (sales, Nov vs Oct totals, chart), 'KES 5. M-Pesa.', back to the hook. Composition Loop25 in src/Loop25.tsx. File queue/2026-11-23-loop25-sheet-by-5.mp4. IG only (nightly review: no TT loop), carries the top-up offer in caption.",
+    "slug": "loop25-sheet-by-5",
+    "hook": "Sheet due by 5?"
   }
 }
