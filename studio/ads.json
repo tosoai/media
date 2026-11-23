@@ -335,5 +335,10 @@
     "_note": "Code-only loop, 8 s (240 frames), hook 'Sheet due by 5?' + MON 3:40PM + 'Raw numbers. No totals.' on frame 0, phone typing a November sales by branch request, 3 code-drawn sheet tabs flip (sales, Nov vs Oct totals, chart), 'KES 5. M-Pesa.', back to the hook. Composition Loop25 in src/Loop25.tsx. File queue/2026-11-23-loop25-sheet-by-5.mp4. IG only (nightly review: no TT loop), carries the top-up offer in caption.",
     "slug": "loop25-sheet-by-5",
     "hook": "Sheet due by 5?"
+  },
+  "loop26-meeting-at-2": {
+    "_note": "Code-only loop, 8 s (240 frames), hook 'Meeting at 2?' + TUE 11:50AM + 'Boss wants slides. None yet.' on frame 0, phone typing an 8-slide November update request, 3 code-drawn slides flip (title, region chart, next steps), 'KES 20. M-Pesa.', back to the hook. Composition Loop26 in src/Loop26.tsx. File queue/2026-11-24-loop26-meeting-at-2.mp4. IG only (nightly review: no TT loop), carries the top-up offer in caption.",
+    "slug": "loop26-meeting-at-2",
+    "hook": "Meeting at 2?"
   }
 }

@@ -1,0 +1,9 @@
+{"out":"queue/2026-11-24-word-fixes-tt","size":"story","slides":[
+{"t":"ntext","color":"#2b4c8c","size":44,"h":"5 Word fixes for\nwhen the formatting\nwon't behave."},
+{"t":"tip","h":"Ctrl + Shift + V.","b":"Paste as plain text. The words come in, the strange fonts and colours from the website don't."},
+{"t":"tip","h":"Ctrl + Space.","b":"Select the messy bit and clear its formatting. It goes back to your normal style."},
+{"t":"tip","h":"Show the ¶ marks.","b":"Home, the ¶ button. Now you can see the extra spaces, breaks and empty lines causing the mess."},
+{"t":"tip","h":"Keep with next.","b":"Heading stuck at the bottom of a page? Paragraph settings, Line and Page Breaks, Keep with next."},
+{"t":"tip","h":"Change Normal once.","b":"Right-click Normal in Styles, Modify. Set the font and 1.5 spacing there, not paragraph by paragraph."},
+{"t":"cta","bg":"night","h":"Or skip the fixing.\nKES 5.","b":"Tell Toso what the document is for. Get it finished in Word, formatting done.\nPay with M-Pesa. No card, no monthly bill."}
+]}
