@@ -1,0 +1,9 @@
+{"out":"queue/2026-11-25-excel-messy-list-tt","size":"story","slides":[
+{"t":"ntext","color":"#1f6b45","size":44,"h":"5 Excel fixes for\nthe messy list\nsomeone sent you."},
+{"t":"tip","h":"Remove Duplicates.","b":"Data, Remove Duplicates. Tick the columns that make a row the same. Doubles gone in one click."},
+{"t":"tip","h":"=TRIM( ).","b":"Strips the extra spaces you can't see, so the same name stops counting as two people."},
+{"t":"tip","h":"Text to Columns.","b":"Names and phone numbers stuck in one cell? Data, Text to Columns, split on the comma or space."},
+{"t":"tip","h":"Ctrl + T.","b":"Turns the list into a table: filters on every column, banded rows, and formulas that fill down by themselves."},
+{"t":"tip","h":"Freeze the top row.","b":"View, Freeze Panes, Freeze Top Row. The headings stay put while you scroll 400 rows."},
+{"t":"cta","bg":"night","h":"Or skip the cleaning.\nKES 5.","b":"Paste the mess into Toso and say what the sheet is for. Get it finished in Excel, sorted and totalled.\nPay with M-Pesa. No card, no monthly bill."}
+]}
