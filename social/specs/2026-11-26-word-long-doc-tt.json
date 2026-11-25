@@ -1,0 +1,9 @@
+{"out":"queue/2026-11-26-word-long-doc-tt","size":"story","slides":[
+{"t":"ntext","color":"#2b4c8c","size":44,"h":"5 Word tricks for\nwhen the document\nis 60 pages long."},
+{"t":"tip","h":"Heading styles.","b":"Use Heading 1 and Heading 2 for every title, not bold text. Everything below works because of this."},
+{"t":"tip","h":"Automatic contents.","b":"References, Table of Contents. Update it before you submit. Page numbers fix themselves."},
+{"t":"tip","h":"Section breaks.","b":"Layout, Breaks, Next Page. Roman numerals for the front pages, 1, 2, 3 from Chapter One."},
+{"t":"tip","h":"Insert Caption.","b":"Right-click a table or figure, Insert Caption. Numbers update when you move them around."},
+{"t":"tip","h":"Navigation Pane.","b":"Ctrl + F opens it. Click Headings and jump to any chapter, or drag one to move it."},
+{"t":"cta","bg":"night","h":"Or skip the fiddling.\nKES 5.","b":"Tell Toso what the document is for. Get it finished in Word, headings, contents and page numbers done.\nPay with M-Pesa. No card, no monthly bill."}
+]}
