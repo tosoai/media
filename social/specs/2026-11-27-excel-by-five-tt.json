@@ -1,0 +1,9 @@
+{"out":"queue/2026-11-27-excel-by-five-tt","size":"story","slides":[
+{"t":"ntext","color":"#1e6b46","size":44,"h":"5 Excel tricks\nfor when the boss\nwants the numbers\nby 5."},
+{"t":"tip","h":"PivotTable first.","b":"Insert, PivotTable. Drag a column to Rows and the amount to Values. A summary in ten seconds."},
+{"t":"tip","h":"SUMIFS, not a calculator.","b":"=SUMIFS(amount, region, \"Nairobi\") adds only the rows you ask for, and updates itself."},
+{"t":"tip","h":"XLOOKUP to match lists.","b":"Pull a price or a name from another sheet by its code. No more copying across by eye."},
+{"t":"tip","h":"Colour the outliers.","b":"Home, Conditional Formatting, Top 10. The numbers the boss will ask about light up."},
+{"t":"tip","h":"Print on one page.","b":"Page Layout, Fit to 1 page wide. Nobody wants column H on page three."},
+{"t":"cta","bg":"night","h":"Or skip the sheet.\nKES 5.","b":"Tell Toso what the numbers are for. Get it finished in Excel, totals and summary done.\nPay with M-Pesa. No card, no monthly bill."}
+]}
